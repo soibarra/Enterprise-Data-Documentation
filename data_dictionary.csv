@@ -1,0 +1,7 @@
+Column_Name,Data_Type,Description
+Patient_ID,INTEGER,Unique identifier for each patient
+Visit_Date,DATE,Date of patient visit
+Diagnosis_Code,VARCHAR,Code for patient diagnosis
+Treatment_Cost,FLOAT,Cost of treatment during the visit
+Provider_ID,INTEGER,Unique identifier for the provider
+
